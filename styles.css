@@ -80,7 +80,12 @@ footer {
   background-color: white;
 }
 
+.weblink{
+  text-decoration: none;
+}
 
 a{
   color: white;
 }
+
+
