@@ -71,5 +71,5 @@ function buttonAnimate(keyPress)
     setTimeout(function()
   {
     btnpress.classList.remove("pressed");
-  },100);
+  },1000);
 }
